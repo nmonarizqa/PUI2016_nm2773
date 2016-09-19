@@ -1,5 +1,5 @@
 ## Homework 2
-This folder contains 5 files:
+This folder contains 6 files:
 
 1. `show_bus_locations_nm2773.py` is a file to monitor location (latitude and longitude) of active buses of a desired bus line. The information is given by MTA through its SIRI API. To run the file, type the following line into your terminal:
   ```
