@@ -1,6 +1,6 @@
 # HW 4
 ## Assignment 1
-I forked the PUI repo `PUI2016_xz1845` and added `CitibikeReview_nm2773.md` inside `HW3_xz1845` folder to review my friend's work. I suggest [insert test here] to his/her project.
+I forked the PUI repo `PUI2016_xz1845` and added `CitibikeReview_nm2773.md` inside `HW3_xz1845` folder to review my friend's work. I suggest t-test to his/her project.
 
 ## Assignment 2
 I worked with Kaylyn and Claire in this assignment. Kaylyn find the article for t-test and Claire find the article with correlation. I involved in the discussion determining the variables and hypothesis.
