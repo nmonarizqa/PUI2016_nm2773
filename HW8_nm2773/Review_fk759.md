@@ -4,7 +4,7 @@ source: https://github.com/blackgwehnade/PUI2016_fk759/blob/master/HW7_fk759/Ass
 
 ## Plot
 
-![fk759](/HW8_nm2773/plot_fk759.png)
+![fk759](https://raw.githubusercontent.com/nmonarizqa/PUI2016_nm2773/master/HW8_nm2773/plot_fk759.png)
 
 ## Review
 
